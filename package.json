@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-sample",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "Sample elements from an array-like object.",
   "license": "Apache-2.0",
   "author": {
