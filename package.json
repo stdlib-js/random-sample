@@ -1,0 +1,41 @@
+{
+  "name": "@stdlib/random-sample",
+  "version": "0.0.0",
+  "description": "Sample elements from an array-like object.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/random-sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "random",
+    "rand",
+    "mathematics",
+    "math",
+    "statistics",
+    "stats",
+    "sampling",
+    "with replacement",
+    "replacement",
+    "discrete",
+    "distribution",
+    "urn",
+    "draw",
+    "choice",
+    "choose",
+    "select",
+    "pick"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
