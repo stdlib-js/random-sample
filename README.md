@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sample from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-sample@deno/mod.js';
+import sample from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-sample@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-sample@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-sample@v0.1.0-deno/mod.js';
 ```
 
 #### sample( x\[, options] )
@@ -252,7 +252,7 @@ out = mysample();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import sample from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-sample@deno/mod.js';
+import sample from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-sample@v0.1.0-deno/mod.js';
 
 // By default, sample uniformly with replacement:
 var x = [ 'a', 'b', 'c', 'd' ];
