@@ -48,13 +48,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import sample from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-sample@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/random-sample/tags). For example,
+
+```javascript
 import sample from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-sample@v0.2.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-sample@v0.2.0-esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-sample@esm/index.mjs';
 ```
 
 #### sample( x\[, options] )
@@ -257,7 +262,7 @@ out = mysample();
 <body>
 <script type="module">
 
-import sample from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-sample@v0.2.0-esm/index.mjs';
+import sample from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-sample@esm/index.mjs';
 
 // By default, sample uniformly with replacement:
 var x = [ 'a', 'b', 'c', 'd' ];
