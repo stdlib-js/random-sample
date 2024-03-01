@@ -62,7 +62,7 @@
     "@stdlib/assert-is-number-array": "^0.2.1",
     "@stdlib/assert-is-string-array": "^0.2.1",
     "@stdlib/assert-is-uint32array": "^0.2.1",
-    "@stdlib/random-base-randu": "^0.2.0",
+    "@stdlib/random-base-randu": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
