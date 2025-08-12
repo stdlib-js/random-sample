@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-08-12)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`77867ac`](https://github.com/stdlib-js/stdlib/commit/77867ac1767a186023f633dea30ddf860962aaed) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
+-   [`504a3f1`](https://github.com/stdlib-js/stdlib/commit/504a3f1d1db20b670b48efd1c292d7efbb433b58) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.1">
 
 ## 0.2.1 (2024-02-25)
