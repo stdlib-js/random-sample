@@ -37,6 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/array-base-copy": "^0.2.2",
     "@stdlib/assert-has-own-property": "^0.2.2",
     "@stdlib/assert-is-array-like": "^0.2.2",
     "@stdlib/assert-is-boolean": "^0.2.2",
