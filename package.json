@@ -47,11 +47,11 @@
     "@stdlib/assert-is-typed-array-like": "^0.2.2",
     "@stdlib/assert-is-unity-probability-array": "^0.2.2",
     "@stdlib/math-base-special-floor": "^0.2.3",
-    "@stdlib/random-base-mt19937": "^0.2.1",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/random-base-mt19937": "^0.2.2",
+    "@stdlib/string-format": "^0.2.3",
     "@stdlib/types": "^0.4.3",
     "@stdlib/utils-copy": "^0.2.2",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
@@ -63,7 +63,7 @@
     "@stdlib/assert-is-number-array": "^0.2.2",
     "@stdlib/assert-is-string-array": "^0.2.2",
     "@stdlib/assert-is-uint32array": "^0.2.2",
-    "@stdlib/random-base-randu": "^0.2.1",
+    "@stdlib/random-base-randu": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
